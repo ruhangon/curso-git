@@ -1,1 +1,3 @@
-Repositório de estudos para um curso de git.
+# Sobre esse repositório
+
+Usado para os estudos de um curso sobre git e github
